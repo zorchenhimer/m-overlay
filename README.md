@@ -41,6 +41,7 @@ Latest downloads can be found in [releases](https://github.com/bkacjios/m-overla
 * Naruto - Gekitou Ninja Taisen! 4 (NTSC-J v1.0)
 * Need for Speed Underground 1 (NTSC-U v1.0)
 * Need for Speed Underground 2 (NTSC-U v1.0)
+* SSX3 (NTSC v1.0)
 
 ### Supported Wii games:
 
